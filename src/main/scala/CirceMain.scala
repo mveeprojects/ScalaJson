@@ -1,9 +1,7 @@
-import FileReader.readInputFile
 import io.circe._
 import io.circe.generic.auto._
 import io.circe.parser._
-
-import scala.io.{BufferedSource, Source}
+import utils.FileReader.readInputFile
 
 case class Hit(slug: String)
 case class Result(hits: List[Hit])
@@ -19,16 +17,4 @@ object Main extends App {
   }
 
   def deserialiseJson(jsonString: String): Either[Error, Results] = decode[Results](jsonString)
-}
-
-object FileReader {
-
-  val inputFile: String = "input.json"
-
-  def readInputFile(inputFilePath: String = inputFile): String = {
-    val source: BufferedSource = Source.fromResource(inputFilePath)
-    val jsonString             = source.getLines.mkString
-    source.close
-    jsonString
-  }
 }
