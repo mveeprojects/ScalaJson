@@ -1,0 +1,259 @@
+{
+  "results": [
+    {
+      "hits": [
+        {
+          "product_template_id": 631937,
+          "shoe_condition": "new_no_defects",
+          "box_condition": "badly_damaged",
+          "lowest_price_cents": 25000,
+          "instant_ship_lowest_price_cents": null,
+          "activity": null,
+          "brand_name": "adidas",
+          "breadcrumb_path_url": null,
+          "category": [
+            "lifestyle"
+          ],
+          "color": "Black",
+          "designer": "Kanye West",
+          "details": "Asriel/Asriel/Asriel",
+          "gender": [
+            "men"
+          ],
+          "grid_glow_picture_url": "https://image.goat.com/glow-4-5-25/375/attachments/product_template_pictures/images/041/243/756/original/631937_00.png.png",
+          "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/041/243/756/original/631937_00.png.png",
+          "has_picture": true,
+          "has_under_retail_availability": false,
+          "keywords": [
+          ],
+          "main_glow_picture_url": "https://image.goat.com/glow-4-5-25/750/attachments/product_template_pictures/images/041/243/756/original/631937_00.png.png",
+          "main_picture_url": "https://image.goat.com/750/attachments/product_template_pictures/images/041/243/756/original/631937_00.png.png",
+          "midsole": "Boost",
+          "name": "Yeezy Boost 350 V2 'Carbon'",
+          "nickname": "Carbon",
+          "original_picture_url": "https://image.goat.com/attachments/product_template_pictures/images/041/243/756/original/631937_00.png.png",
+          "product_category": "shoes",
+          "product_type": "sneakers",
+          "release_date": "2020-10-02T23:59:59.999Z",
+          "release_date_name": "",
+          "retail_price_cents": 22000,
+          "search_sku": "fz5000",
+          "season": null,
+          "season_year": null,
+          "silhouette": "Yeezy Boost 350",
+          "single_gender": "men",
+          "size_brand": "adidas",
+          "size_range": [
+            3,
+            3.5,
+            4,
+            4.5,
+            5,
+            5.5,
+            6,
+            6.5,
+            7,
+            7.5,
+            8,
+            8.5,
+            9,
+            9.5,
+            10,
+            10.5,
+            11,
+            11.5,
+            12,
+            12.5,
+            13,
+            13.5,
+            14,
+            14.5,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "sku": "FZ5000",
+          "slug": "yeezy-boost-350-v2-asriel-fz5000",
+          "special_display_price_cents": 22000,
+          "special_type": "standard",
+          "status": "active",
+          "story_html": "<p>The adidas Yeezy Boost 350 V2 ‘Carbon’ features a breathable Primeknit upper in a neutral black and grey finish. The sneaker’s lateral side features a streak of black via the post-dyed monofilament side stripe, separating a light grey weave up top with mostly black construction on the lower half. No-tie bungee laces deliver a secure fit. The sneaker rides on a full-length Boost midsole, surrounded by a yellow-tinged rubber cage.</p> ",
+          "upper_material": "Primeknit",
+          "collection_slugs": [
+            "yeezy-350",
+            "adidas-yeezy-boost",
+            "best-of-2020-sneakers",
+            "trending-sneakers-winter-2020",
+            "gift-guide-yeezy-350-v2",
+            "gift-guide-yeezy",
+            "instant-ship-sneakers"
+          ],
+          "has_stock": true,
+          "size": 4,
+          "presentation_size": "4",
+          "release_year": 2020,
+          "release_month": 10,
+          "is_wantable": true,
+          "id": 631937,
+          "is_under_retail": false,
+          "is_fashion_product": false,
+          "is_raffle_product": false,
+          "resellable": true,
+          "size_us_men": 4,
+          "size_us_women": 5,
+          "size_us_youth": 4,
+          "size_us_infant": null,
+          "size_uk_men": 3.5,
+          "size_uk_women": 3.5,
+          "size_uk_youth": 3.5,
+          "size_uk_infant": null,
+          "size_eu_men": 36,
+          "size_eu_women": 36,
+          "size_eu_youth": 36,
+          "size_eu_infant": null,
+          "size_fr_men": 36,
+          "size_fr_women": 36,
+          "size_fr_youth": 36,
+          "size_fr_infant": null,
+          "size_it_men": null,
+          "size_it_women": null,
+          "size_it_youth": null,
+          "size_it_infant": null,
+          "size_jp_men": null,
+          "size_jp_women": null,
+          "size_jp_youth": null,
+          "size_jp_infant": null,
+          "lowest_price_cents_usd": 25000,
+          "instant_ship_lowest_price_cents_usd": null,
+          "retail_price_cents_usd": 22000,
+          "lowest_price_cents_aud": 32900,
+          "instant_ship_lowest_price_cents_aud": null,
+          "retail_price_cents_aud": 29000,
+          "lowest_price_cents_cad": 32200,
+          "instant_ship_lowest_price_cents_cad": null,
+          "retail_price_cents_cad": 28400,
+          "lowest_price_cents_cny": 163800,
+          "instant_ship_lowest_price_cents_cny": null,
+          "retail_price_cents_cny": 144200,
+          "lowest_price_cents_eur": 20900,
+          "instant_ship_lowest_price_cents_eur": null,
+          "retail_price_cents_eur": 18400,
+          "lowest_price_cents_gbp": 18600,
+          "instant_ship_lowest_price_cents_gbp": null,
+          "retail_price_cents_gbp": 16400,
+          "lowest_price_cents_hkd": 196000,
+          "instant_ship_lowest_price_cents_hkd": null,
+          "retail_price_cents_hkd": 172500,
+          "lowest_price_cents_sgd": 33600,
+          "instant_ship_lowest_price_cents_sgd": null,
+          "retail_price_cents_sgd": 29600,
+          "lowest_price_cents_twd": 705800,
+          "instant_ship_lowest_price_cents_twd": null,
+          "retail_price_cents_twd": 621100,
+          "lowest_price_cents_jpy": 2626500,
+          "instant_ship_lowest_price_cents_jpy": null,
+          "retail_price_cents_jpy": 2311300,
+          "lowest_price_cents_krw": 27863200,
+          "instant_ship_lowest_price_cents_krw": null,
+          "retail_price_cents_krw": 24519600,
+          "product_taxonomy": {
+          },
+          "objectID": "10296889",
+          "_highlightResult": {
+            "brand_name": {
+              "value": "adidas",
+              "matchLevel": "none",
+              "matchedWords": [
+              ]
+            },
+            "color": {
+              "value": "Black",
+              "matchLevel": "none",
+              "matchedWords": [
+              ]
+            },
+            "designer": {
+              "value": "Kanye West",
+              "matchLevel": "none",
+              "matchedWords": [
+              ]
+            },
+            "details": {
+              "value": "Asriel/Asriel/Asriel",
+              "matchLevel": "none",
+              "matchedWords": [
+              ]
+            },
+            "gender": [
+              {
+                "value": "men",
+                "matchLevel": "none",
+                "matchedWords": [
+                ]
+              }
+            ],
+            "midsole": {
+              "value": "Boost",
+              "matchLevel": "none",
+              "matchedWords": [
+              ]
+            },
+            "name": {
+              "value": "Yeezy Boost 350 V2 'Carbon'",
+              "matchLevel": "none",
+              "matchedWords": [
+              ]
+            },
+            "product_type": {
+              "value": "sneakers",
+              "matchLevel": "none",
+              "matchedWords": [
+              ]
+            },
+            "release_date_name": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": [
+              ]
+            },
+            "search_sku": {
+              "value": "<ais-highlight-0000000000>fz5000</ais-highlight-0000000000>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "fz5000"
+              ]
+            },
+            "silhouette": {
+              "value": "Yeezy Boost 350",
+              "matchLevel": "none",
+              "matchedWords": [
+              ]
+            },
+            "sku": {
+              "value": "<ais-highlight-0000000000>FZ5000</ais-highlight-0000000000>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": [
+                "fz5000"
+              ]
+            }
+          }
+        }
+      ],
+      "nbHits": 1,
+      "page": 0,
+      "nbPages": 1,
+      "hitsPerPage": 20,
+      "exhaustiveNbHits": true,
+      "query": "fz5000",
+      "params": "highlightPreTag=%3Cais-highlight-0000000000%3E&highlightPostTag=%3C%2Fais-highlight-0000000000%3E&distinct=true&query=fz5000",
+      "index": "product_variants_v2",
+      "processingTimeMS": 1
+    }
+  ],
+  "params": "x-algolia-agent=Algolia%20for%20JavaScript%20(3.35.1)%3B%20Browser%20(lite)%3B%20JS%20Helper%20(3.2.2)%3B%20react%20(16.13.1)%3B%20react-instantsearch%20(6.8.2)&x-algolia-application-id=2FWOTDVM2O&x-algolia-api-key=ac96de6fef0e02bb95d433d8d5c7038a&0=%2F1%2Findexes%2Fproduct_variants_v2%3FhighlightPreTag%3D%253Cais-highlight-0000000000%253E%26highlightPostTag%3D%253C%252Fais-highlight-0000000000%253E%26distinct%3Dtrue%26query%3Dfz5000"
+}
