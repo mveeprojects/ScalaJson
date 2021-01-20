@@ -7,7 +7,7 @@ case class Hit(slug: String)
 case class Result(hits: List[Hit])
 case class Results(results: List[Result])
 
-object Main extends App {
+object CirceMain extends App {
 
   val jsonString: String = readInputFile()
 
