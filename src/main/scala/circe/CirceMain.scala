@@ -1,3 +1,5 @@
+package circe
+
 import io.circe._
 import io.circe.generic.auto._
 import io.circe.parser._
